@@ -1,2 +1,2 @@
 # OctoRancherAgent
-Build an agent on your octohost
+Build a Rancher agent on your octohost
