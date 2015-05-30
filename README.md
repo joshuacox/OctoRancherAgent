@@ -1,7 +1,7 @@
 # OctoRancherAgent
 Build a Rancher agent on your octohost
 
-# Usage
+## Usage
 First ensure the server is running:
 https://github.com/joshuacox/OctoRancherServer
 
