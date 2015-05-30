@@ -9,7 +9,7 @@ then log into it at port 8080 and configure auth, add a host and get the URL and
 
 then
 ```
-git remote add octo git@octodev.io
+git remote add octo git@octodev.io:octorancheragent.git
 git push octo master
 ```
 
